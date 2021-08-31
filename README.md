@@ -1,4 +1,4 @@
-# Dio live Coding: Creating a meeting room manager with Java and Angular
+# Dio Live Coding: Creating a meeting room manager with Java and Angular
 
 During this class we learned how to produce a full-stack project using:
 
